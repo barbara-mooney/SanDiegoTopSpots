@@ -33,7 +33,7 @@
     "react-dom": "^15.3.2",
     "serve-favicon": "^2.5.0",
     "webpack": "^4.20.2",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
